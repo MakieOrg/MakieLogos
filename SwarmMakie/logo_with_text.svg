@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="241.02296pt"
+   width="135.16835pt"
    height="55.293636pt"
-   viewBox="0 0 85.027545 19.506366"
+   viewBox="0 0 47.68439 19.506366"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.6636684"
-     inkscape:cx="158.08438"
-     inkscape:cy="69.725431"
+     inkscape:zoom="1"
+     inkscape:cx="94"
+     inkscape:cy="114"
      inkscape:window-width="1728"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -35,7 +35,7 @@
      inkscape:current-layer="layer1"><inkscape:page
        x="0"
        y="0"
-       width="85.027542"
+       width="47.684387"
        height="19.506367"
        id="page3"
        margin="1.7638888"
@@ -56,7 +56,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-80.087184,-137.93601)"><text
+     transform="translate(-80.087184,-137.93601)"><image
+       width="15.703792"
+       height="15.904766"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAAQdJREFU&#10;GJUlyltKw1AQgOF/JieJNqG1FUERXJULcwduT1C8pCY91xkf/J4/eX559XPZsdVrYhuo1gEQzBhb&#10;Y1cKc8mE2/GbThqK4w7uA5gytsZUMvuUOOREeJjeuQqZXisihqQZSsecM8cYOcYLNykSnqY39v3K&#10;FDauusR3K/g6sl8Ld9vGKV44pEh4mt841YXTuHAbzvzEBcsz8wLH38ghJaZSCPe7D7L13I1fPPLJ&#10;9nXE8oH+PHK9wFgqgzXCfvjFXWm60sJKlUizC15mNPVIFtQhDFrBBXfDTWkWMblgGjAcLICDAtAE&#10;qkJRxAB16BsSDDoDQDH5j0XwKmAC6khw6B06B3X+AFdjlqIieGllAAAAAElFTkSuQmCC&#10;"
+       id="image2"
+       x="81.927185"
+       y="-155.62811"
+       clip-path="none"
+       inkscape:label="gradient"
+       style="display:none;image-rendering:auto"
+       transform="scale(1,-1)" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Barlow;-inkscape-font-specification:'Barlow Bold';text-align:start;letter-spacing:-0.396875px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0.249796;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        x="100.68714"
@@ -78,4 +89,4 @@
        clip-path="url(#clipPath139)"
        inkscape:label="image1"
        style="display:inline;image-rendering:auto"
-       transform="matrix(0.49697417,0,0,-0.49697417,40.014145,69.621563)" /></g></svg>
+       transform="matrix(0.48210329,0,0,-0.48210329,41.501736,72.03278)" /></g></svg>
