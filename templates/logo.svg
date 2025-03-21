@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="115.31643pt"
-   height="115.31643pt"
-   viewBox="0 0 40.681074 40.681074"
+   width="116.00001pt"
+   height="115.99999pt"
+   viewBox="0 0 40.922225 40.92222"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
@@ -24,19 +24,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1"
-     inkscape:cx="93"
-     inkscape:cy="56"
+     inkscape:zoom="3.8926815"
+     inkscape:cx="77.067698"
+     inkscape:cy="70.64539"
      inkscape:window-width="1728"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"><inkscape:page
+     inkscape:current-layer="layer1"
+     showguides="true"><inkscape:page
        x="0"
        y="0"
-       width="40.681076"
-       height="40.681076"
+       width="40.922226"
+       height="40.922218"
        id="page3"
        margin="2.8222222"
        bleed="0" /></sodipodi:namedview><defs
@@ -51,7 +52,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-79.515062,-137.10184)"><image
+     transform="translate(-79.515064,-137.10185)"><image
        width="34.530838"
        height="34.972759"
        preserveAspectRatio="none"
@@ -63,12 +64,12 @@
        inkscape:label="gradient"
        style="display:none;image-rendering:auto"
        transform="scale(1,-1)" /><rect
-       style="display:inline;fill:none;fill-opacity:0.17298;stroke:#dadada;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:0.17298;stroke:#dadada;stroke-width:0.532809;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:0.532809, 1.59842;stroke-dashoffset:0;stroke-opacity:1"
        id="rect50-9"
-       width="34.507462"
-       height="34.507462"
-       x="82.601868"
-       y="140.18864"
+       width="34.744972"
+       height="34.744968"
+       x="82.603691"
+       y="140.19048"
        inkscape:label="Icon bbox" /><image
        width="17.048592"
        height="17.266777"
@@ -80,4 +81,4 @@
        clip-path="url(#clipPath1)"
        inkscape:label="Icon"
        style="image-rendering:auto"
-       transform="matrix(2.1309156,0,0,-2.1309156,-91.589828,-158.28564)" /></g></svg>
+       transform="matrix(2.1309156,0,0,-2.1309156,-91.385921,-158.28564)" /></g></svg>
