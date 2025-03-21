@@ -11,3 +11,9 @@
 ![](AlgebraOfGraphics/logo.svg)
 
 ![](AlgebraOfGraphics/logo_with_text.svg)
+
+## SwarmMakie
+
+![](SwarmMakie/logo.svg)
+
+![](SwarmMakie/logo_with_text.svg)
