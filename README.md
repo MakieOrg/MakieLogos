@@ -12,6 +12,12 @@
 
 ![](AlgebraOfGraphics/logo_with_text.svg)
 
+## SankeyMakie
+
+![](SankeyMakie/logo.svg)
+
+![](SankeyMakie/logo_with_text.svg)
+
 ## SwarmMakie
 
 ![](SwarmMakie/logo.svg)
