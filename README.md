@@ -22,7 +22,7 @@
 
 ![](SankeyMakie/logo_with_text.svg)
 
-![](SankeyMakie/logo_with_text_darl.svg)
+![](SankeyMakie/logo_with_text_dark.svg)
 
 ## SwarmMakie
 
